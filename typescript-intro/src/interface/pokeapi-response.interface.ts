@@ -36,7 +36,7 @@ export interface Cries {
     latest: string;
     legacy: string;
 }
-
+ 
 export interface GameIndex {
     game_index: number;
     version:    Species;
